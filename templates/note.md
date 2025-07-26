@@ -1,5 +1,5 @@
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
-draft: 
-falsetags: - 
+title: How to publish Obsidian notes with Quartz on GitHub Pages
+draft: true
+falsetags:
 ---
